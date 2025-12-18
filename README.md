@@ -14,6 +14,11 @@ This project presents an interactive Power BI dashboard designed to analyze sale
 - Top Products & Categories
 - Dynamic filters by year and payment method
 
+## SQL Analysis
+This project includes SQL queries used to analyze booking trends, route performance, and revenue distribution.  
+See the [`sql`](sql/) folder for query examples.
+
+
 ## Dashboard Preview
 ![Dashboard Overview](dashboard_overview.png)
 
