@@ -1,0 +1,16 @@
+OrderDate,Region,SalesRep,Item,Units,UnitCost,TotalRevenue
+2024-01-15,North,John Smith,Laptop,5,800,4000
+2024-01-22,South,Jane Doe,Mouse,20,10,200
+2024-02-05,North,John Smith,Keyboard,10,25,250
+2024-02-18,West,David Chen,Laptop,3,850,2550
+2024-03-03,South,Jane Doe,Monitor,8,150,1200
+2024-03-20,East,Emily White,Keyboard,15,22,330
+2024-04-10,West,David Chen,Mouse,30,12,360
+2024-04-25,North,John Smith,Monitor,7,160,1120
+2024-05-11,South,Jane Doe,Laptop,4,820,3280
+2024-05-29,East,Emily White,Webcam,25,40,1000
+2024-06-14,West,David Chen,Keyboard,12,25,300
+2024-06-28,North,John Smith,Webcam,18,45,810
+2024-07-09,South,Jane Doe,Mouse,40,10,400
+2024-07-21,East,Emily White,Monitor,10,155,1550
+2024-08-05,West,David Chen,Laptop,6,830,4980
