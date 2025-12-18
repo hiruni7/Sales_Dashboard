@@ -7,7 +7,7 @@ This project presents an interactive Power BI dashboard designed to analyze sale
 - Power BI
 - Excel / CSV
 - Data Modeling & DAX
-
+  
 ## Key Features
 - Total Sales, Profit & Profit %
 - Monthly and Daily Sales Trends
