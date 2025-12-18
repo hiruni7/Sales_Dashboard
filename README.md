@@ -20,3 +20,6 @@ This project presents an interactive Power BI dashboard designed to analyze sale
 ## How to Use
 Download the .pbix file and open it using Power BI Desktop.
 
+## Author
+J.A. Hiruni Pramudika | Aspiring Business Analyst
+
